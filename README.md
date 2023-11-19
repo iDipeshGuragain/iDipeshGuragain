@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipesh Guragain</h1>
 <h3 align="center">As a Full Stack Developer, I'm familiar with various programming languages, capable of handling both backend and frontend development needs. I excel in problem-solving, making me an effective contributor to any project.</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDWyWdIrWWlPrG50nw1zOa3310r9bJUptvxYAsAfIb6adLosfkIuZZISTogbu9GoF3Zs&usqp=CAU" alt="Image" width="400" height="300">
+<img src="https://img.freepik.com/premium-vector/programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1768.jpg?size=338&ext=jpg&ga=GA1.1.1880011253.1699401600&semt=ais" alt="Image" width="400" height="300">
 
 - 💬 Ask me about **PHP, Laravel, React, Node , Express, Mongoose , Django**
 

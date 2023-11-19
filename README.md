@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dipesh Guragain</h1>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-        <div style="flex: 1; padding: 10px;">
-            <h3 align="left">About Me:</h3>
-            <p align="left">As a Full Stack Developer, I'm familiar with various programming languages, capable of handling both backend and frontend development needs. I excel in problem-solving, making me an effective contributor to any project.</p>
-
-            - 💬 Ask me about **PHP, Laravel, React, Node , Express, Mongoose , Django**<br>
-            - 📫 How to reach me **idipeshguragain@gmail.com**
-
-        </div>
 <h3 align="center">As a Full Stack Developer, I'm familiar with various programming languages, capable of handling both backend and frontend development needs. I excel in problem-solving, making me an effective contributor to any project.</h3>
 
 - 💬 Ask me about **PHP, Laravel, React, Node , Express, Mongoose , Django**

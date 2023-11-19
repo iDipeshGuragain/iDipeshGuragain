@@ -1,5 +1,4 @@
 <h2 align="center"> Hi 👋, I'm Dipesh Guragain</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h2>As a Full Stack Developer, I'm familiar with various programming languages</h2>
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
+<h3>As a Full Stack Developer, I'm familiar with various programming languages, capable of handling both backend and frontend development needs. I excel in problem-solving, making me an effective contributor to any project.</h3>

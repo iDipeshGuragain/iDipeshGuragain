@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Dipesh Guragain</h2>
-<img align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 <h3>As a Full Stack Developer, I'm familiar with various programming languages, capable of handling both backend and frontend development needs. I excel in problem-solving, making me an effective contributor to any project.</h3>
 
